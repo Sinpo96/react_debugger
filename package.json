@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "react": "file:.yalc/react",
-    "react-dom": "file:.yalc/react-dom"
+    "react-dom": "file:.yalc/react-dom",
+    "scheduler": "file:.yalc/scheduler"
   }
 }
